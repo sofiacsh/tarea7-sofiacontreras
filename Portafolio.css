@@ -229,7 +229,7 @@ main {
     align-self: center;
 }
 
-@media (max-width: 768px) {
+.media (max-width: 768px) {
     nav ul {
         display: flex;
         flex-wrap: wrap;
